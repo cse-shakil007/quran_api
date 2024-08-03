@@ -136,6 +136,8 @@ MEDIA_ROOT = MEDIA_DIR
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
+IMPORT_EXPORT_USE_TRANSECTIONS = False
+
 
 
 
